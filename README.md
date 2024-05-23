@@ -31,8 +31,8 @@ utente doz, password marcoexo
 punti principali progetto generatore di pattern
 
 /boot/config.txt contiene il modo di funzionamento (NTSC/PAL ecc)
-# 0 NTSC, 1 JAP, 2 PAL, 3 BRAZIL
-# uncomment for composite PAL
+ \# 0 NTSC, 1 JAP, 2 PAL, 3 BRAZIL
+ \# uncomment for composite PAL
 sdtv_mode=2
 
 /boot/retrogame.cfg contiene le definizioni dei tasti e la mappatura delle porte per emulare la tastiera USB (utilizzata per i tasti J e K successivo/precedente per il visualizzatore di immagini fbi)
