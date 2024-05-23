@@ -31,7 +31,9 @@ utente doz, password marcoexo
 punti principali progetto generatore di pattern
 
 /boot/config.txt contiene il modo di funzionamento (NTSC/PAL ecc)
+
  \# 0 NTSC, 1 JAP, 2 PAL, 3 BRAZIL
+ 
  \# uncomment for composite PAL
 sdtv_mode=2
 
