@@ -1,9 +1,11 @@
+find here a dumped image of the SD for pi zero : https://www.mediafire.com/file/7kaiuq4mylnqwzw/marcoexopatgen.img/file
+
 # patgen
 Pattern generator, derived from Doz's https://andydoz.blogspot.com/2023/02/pipatgen-raspberry-pi-television.html
 
 user doz, password marcoexo
 
-main points  pattern generator project
+Highlights on the pattern generator project
 
 /boot/config.txt contains the operating mode (NTSC/PAL etc)
 	#0 NTSC, 1 JAP, 2 PAL, 3 BRAZIL
@@ -28,7 +30,7 @@ these are the commands launched at startup (doz user autologin)
 
 utente doz, password marcoexo
 
-punti principali progetto generatore di pattern
+punti principali del progetto generatore di pattern
 
 /boot/config.txt contiene il modo di funzionamento (NTSC/PAL ecc)
 
