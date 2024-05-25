@@ -21,6 +21,7 @@ button connections : GPIO 18(PIN 12)  <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) 
 /home/doz/.bashrc initializes everything, launching the retrogame program for emulating the J and K keys and the python program that launches the home sequence for FBI on GPIO 18 input (pin 12) (first image: 1G) launches the fbi program that displays the patterns present in the path /TestPatterns
 
 these are the commands launched at startup (doz user autologin)
+
 	 sudo /home/doz/keypress/retrogame &
   
 	 sudo python /home/doz/Scripts/fbi_first_img.py &
