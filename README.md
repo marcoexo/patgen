@@ -1,17 +1,15 @@
+# PiPatGen
+Pattern generator, derived from Doz's https://andydoz.blogspot.com/2023/02/pipatgen-raspberry-pi-television.html
+
 # SD IMAGE
 find here a dumped image of the SD for pi zero : https://www.mediafire.com/file/7kaiuq4mylnqwzw/marcoexopatgen.img/file
+user doz, password marcoexo
 
 # CONNECTIONS
 button connections : GPIO 18(PIN 12)  <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) <--> GND (PIN 6), GPIO 23 (PIN 16) <---> GND (PIN 6) 
 (for a clear list of gpio pins : https://pinout.xyz/pinout/pin15_gpio22/) 
 
-
-# patgen
-Pattern generator, derived from Doz's https://andydoz.blogspot.com/2023/02/pipatgen-raspberry-pi-television.html
-
-user doz, password marcoexo
-
-# Highlights on the pattern generator project
+# Highlights on this pattern generator project
 
 /boot/config.txt contains the operating mode (NTSC/PAL etc)
 	#0 NTSC, 1 JAP, 2 PAL, 3 BRAZIL
@@ -33,14 +31,18 @@ these are the commands launched at startup (doz user autologin)
 /home/doz/TestPatterns contains a set of useful images gathered from teh internet, replace/change with your preferred
 
 -------------------ITA--------------------------------
+# IMMAGINE DELLA SD
+
 trova qui un'immagine scaricata della SD per pi zero: https://www.mediafire.com/file/7kaiuq4mylnqwzw/marcoexopatgen.img/file
+
+# COLLEGAMENTI
 
 connessioni pulsanti: GPIO 18(PIN 12) <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) <--> GND (PIN 6), GPIO 23 (PIN 16) <---> GND ( PIN6) 
 (per un elenco chiaro dei pin gpio: https://pinout.xyz/pinout/pin15_gpio22/)
 
 utente doz, password marcoexo
 
-punti principali del progetto generatore di pattern
+# Punti principali del progetto generatore di pattern
 
 /boot/config.txt contiene il modo di funzionamento (NTSC/PAL ecc)
 
