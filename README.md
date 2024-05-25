@@ -6,7 +6,7 @@ find here a dumped image of the SD for pi zero : https://www.mediafire.com/file/
 user doz, password marcoexo
 
 # CONNECTIONS
-button connections : GPIO 18(PIN 12)  <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) <--> GND (PIN 6), GPIO 23 (PIN 16) <---> GND (PIN 6) 
+button connections : GPIO 18(PIN 12)  <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) <--> GND (PIN 6) = PREVIOUS IMAGE, GPIO 23 (PIN 16) <---> GND (PIN 6) = NEXT IMAGE 
 (for a clear list of gpio pins : https://pinout.xyz/pinout/pin15_gpio22/) 
 
 # Highlights on this pattern generator project
@@ -41,7 +41,7 @@ trova qui un'immagine scaricata della SD per pi zero: https://www.mediafire.com/
 
 # COLLEGAMENTI
 
-connessioni pulsanti: GPIO 18(PIN 12) <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) <--> GND (PIN 6), GPIO 23 (PIN 16) <---> GND ( PIN6) 
+connessioni pulsanti: GPIO 18(PIN 12) <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) <--> GND (PIN 6) = PREVIOUS IMAGE, GPIO 23 (PIN 16) <---> GND ( PIN6) = NEXT IMAGE
 (per un elenco chiaro dei pin gpio: https://pinout.xyz/pinout/pin15_gpio22/)
 
 utente doz, password marcoexo
