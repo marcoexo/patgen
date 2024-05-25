@@ -61,8 +61,11 @@ sdtv_mode=2
 /home/doz/.bashrc inizializza il tutto, lanciando il programma retrogame per l'emulazione dei tasti J e K e il pregramma python che lancia su input GPIO 18 (pin 12) la sequenza hoeme per FBI (prima immagine : 1G) lancia il programma fbi che visualizza i pattern presenti nel percorso /TestPatterns
 
 questi i comandi lanciati all'avvio (autologin dell'utente doz)
+
 	sudo /home/doz/keypress/retrogame &
+ 
 	sudo python /home/doz/Scripts/fbi_first_img.py &
+ 
 	fbi -a -noverbose /home/doz/TestPatterns/*.*
 
 
