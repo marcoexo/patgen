@@ -22,7 +22,9 @@ button connections : GPIO 18(PIN 12)  <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) 
 
 these are the commands launched at startup (doz user autologin)
 	 sudo /home/doz/keypress/retrogame &
+  
 	 sudo python /home/doz/Scripts/fbi_first_img.py &
+  
 	 fbi -a -noverbose /home/doz/TestPatterns/*.*
 
 
