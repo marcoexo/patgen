@@ -1,5 +1,9 @@
 find here a dumped image of the SD for pi zero : https://www.mediafire.com/file/7kaiuq4mylnqwzw/marcoexopatgen.img/file
 
+button connections : GPIO 18(PIN 12)  <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) <--> GND (PIN 6), GPIO 23 (PIN 16) <---> GND (PIN 6) 
+(for a clear list of gpio pins : https://pinout.xyz/pinout/pin15_gpio22/) 
+
+
 # patgen
 Pattern generator, derived from Doz's https://andydoz.blogspot.com/2023/02/pipatgen-raspberry-pi-television.html
 
@@ -27,6 +31,10 @@ these are the commands launched at startup (doz user autologin)
 /home/doz/TestPatterns contains a set of useful images gathered from teh internet, replace/change with your preferred
 
 -------------------ITA--------------------------------
+trova qui un'immagine scaricata della SD per pi zero: https://www.mediafire.com/file/7kaiuq4mylnqwzw/marcoexopatgen.img/file
+
+connessioni pulsanti: GPIO 18(PIN 12) <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) <--> GND (PIN 6), GPIO 23 (PIN 16) <---> GND ( PIN6) 
+(per un elenco chiaro dei pin gpio: https://pinout.xyz/pinout/pin15_gpio22/)
 
 utente doz, password marcoexo
 
