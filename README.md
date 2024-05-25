@@ -1,5 +1,7 @@
+# SD IMAGE
 find here a dumped image of the SD for pi zero : https://www.mediafire.com/file/7kaiuq4mylnqwzw/marcoexopatgen.img/file
 
+# CONNECTIONS
 button connections : GPIO 18(PIN 12)  <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) <--> GND (PIN 6), GPIO 23 (PIN 16) <---> GND (PIN 6) 
 (for a clear list of gpio pins : https://pinout.xyz/pinout/pin15_gpio22/) 
 
@@ -9,7 +11,7 @@ Pattern generator, derived from Doz's https://andydoz.blogspot.com/2023/02/pipat
 
 user doz, password marcoexo
 
-Highlights on the pattern generator project
+# Highlights on the pattern generator project
 
 /boot/config.txt contains the operating mode (NTSC/PAL etc)
 	#0 NTSC, 1 JAP, 2 PAL, 3 BRAZIL
