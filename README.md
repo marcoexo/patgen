@@ -2,7 +2,7 @@
 Pattern generator, derived from Doz's https://andydoz.blogspot.com/2023/02/pipatgen-raspberry-pi-television.html
 
 # SD IMAGE
-find here a dumped image of the SD for pi zero : https://www.mediafire.com/file/7kaiuq4mylnqwzw/marcoexopatgen.img/file
+find here a dumped image of the SD for pi zero : https://www.mediafire.com/file/9u2b6hzx6hbsal3/marcoexopatgen.img/file
 user doz, password marcoexo (UPDATED JUNE 5 2024, for a problem in corrupted file etc/fstab)
 
 # CONNECTIONS
@@ -38,7 +38,7 @@ these are the commands launched at startup (doz user autologin)
 -------------------ITA--------------------------------
 # IMMAGINE DELLA SD
 
-trova qui un'immagine scaricata della SD per pi zero: https://www.mediafire.com/file/7kaiuq4mylnqwzw/marcoexopatgen.img/file
+trova qui un'immagine scaricata della SD per pi zero: https://www.mediafire.com/file/9u2b6hzx6hbsal3/marcoexopatgen.img/file
 utente doz, password marcoexo (AGGIORNATO 5 GIUGNO 2024, per un problema nel file corrotto etc/fstab)
 
 # COLLEGAMENTI
