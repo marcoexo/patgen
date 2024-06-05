@@ -114,6 +114,7 @@ fi
 
 sudo /home/doz/keypress/retrogame &
 sudo python /home/doz/Scripts/fbi_first_img.py &
+sudo python /home/doz/Scripts/shutdown_pi.py &
 
 fbi -a -noverbose /home/doz/TestPatterns/*.*
 
