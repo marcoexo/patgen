@@ -3,11 +3,12 @@ Pattern generator, derived from Doz's https://andydoz.blogspot.com/2023/02/pipat
 
 # SD IMAGE
 find here a dumped image of the SD for pi zero : https://www.mediafire.com/file/7kaiuq4mylnqwzw/marcoexopatgen.img/file
-user doz, password marcoexo
+user doz, password marcoexo (UPDATED JUNE 5 2024, for a problem in corrupted file etc/fstab)
 
 # CONNECTIONS
 button connections : GPIO 18(PIN 12)  <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) <--> GND (PIN 6) = PREVIOUS IMAGE, GPIO 23 (PIN 16) <---> GND (PIN 6) = NEXT IMAGE 
 (for a clear list of gpio pins : https://pinout.xyz/pinout/pin15_gpio22/) 
+-update 20240605 added a shutdown pin, to shutdown connect pin 22 (GPIO25) to GND (PIN 6 OR PIN 20)
 
 # Highlights on this pattern generator project
 
@@ -38,11 +39,13 @@ these are the commands launched at startup (doz user autologin)
 # IMMAGINE DELLA SD
 
 trova qui un'immagine scaricata della SD per pi zero: https://www.mediafire.com/file/7kaiuq4mylnqwzw/marcoexopatgen.img/file
+utente doz, password marcoexo (AGGIORNATO 5 GIUGNO 2024, per un problema nel file corrotto etc/fstab)
 
 # COLLEGAMENTI
 
 connessioni pulsanti: GPIO 18(PIN 12) <--> GND (PIN 6) = HOME, GPIO 22 (PIN 15) <--> GND (PIN 6) = PREVIOUS IMAGE, GPIO 23 (PIN 16) <---> GND ( PIN6) = NEXT IMAGE
 (per un elenco chiaro dei pin gpio: https://pinout.xyz/pinout/pin15_gpio22/)
+-aggiornamento 20240605 aggiunto un pin di spegnimento, per spegnere collegare il pin 22 (GPIO25) a GND (PIN 6 O PIN 20)
 
 utente doz, password marcoexo
 
